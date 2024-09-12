@@ -1,4 +1,5 @@
-Crime Rates Dashboard Using Excel
+#Crime Rates Dashboard Using Excel
+
 Project Overview
 This project is an interactive Crime Rates Dashboard built using Microsoft Excel 2019. The dataset contains information related to crimes such as dates, locations, types of crimes, and whether the cases were solved or not. The goal of the dashboard is to provide meaningful insights through data visualization, helping users analyze crime patterns and trends over time.
 
